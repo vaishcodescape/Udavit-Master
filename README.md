@@ -16,13 +16,3 @@ This repository serves as the central hub for the Udavit project, linking all re
 | **Frontend**               | User interface for the Udavit app  | [Segfault-Squad](https://github.com/vaishcodescape/Segfault-Squad) |
 | **Backend**                | Core backend APIs and services      | [Udavit Backend](https://github.com/vaishcodescape/Udavit-Backend) |
 | **Smart Contract Backend** | Blockchain-based smart contract logic | [Smart Contract Backend](https://github.com/vaishcodescape/smartcontract-backend) |
-
----
-
-## Getting Started
-
-To clone this master repository along with all linked backend repositories (submodules):
-
-```bash
-git clone --recurse-submodules https://github.com/vaishcodescape/Udavit-Master.git
-cd Udavit-Master
